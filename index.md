@@ -7,6 +7,7 @@ This project will give you a glimpse of how we work as well as give you anopport
 As the Front-End engineer  your  challenge is to  create a version of this project  that is as close to the Figma Design Doc as possible.
 
 1. Clone project Repo and make a branch
+2. Make sure you can view, edit, and build current project before editing (See info related to NextJS below for help with this)
 2. Using theis projects folder structure, the included diagrams, the link to the Figma Design Doc, and your skillz  to finish building this  Single Page web  App
 8. The data and assets are already in the project or accessible via mock data in project folder
 9. Some Layouts, Modules, Components, and Elements are already created so you need only update/edit them to look like the figma doc, some Some Layouts, Modules, Components, and Elements you will need to use figma doc as guide and create
