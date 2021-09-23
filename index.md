@@ -1,7 +1,7 @@
 # EA Front End Challenge
 The following project is setup similiar to how our current projects are  strutured, which includes some of our current programming  languages, tools, and libraries. 
 This project will give you a glimpse of how we work as well as give you anopportunity to show case your skillset.
-** Please contact me, if you think this is unreasonable or confusing. **
+**Please contact me, if you think this is unreasonable or confusing.**
 
 ## Challenge Overview
 As the Front-End engineer  your  challenge is to  create a version of this project  that is as close to the Figma Design Doc as possible.
@@ -15,7 +15,7 @@ As the Front-End engineer  your  challenge is to  create a version of this proje
 15. build and test locally then push your branch before the interview 
 16. Then we can discuss
 
-**If your portfolio contains a project that is similar please contact me **
+**🚨 if your portfolio contains a project that is similar please contact me! 🚨**
 
 
 ### EA's App Structure
