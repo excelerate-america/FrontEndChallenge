@@ -9,7 +9,7 @@ Hello  the following is a couple of tasks that will help demonstrate your skills
 4. make the edits to the code and test locally
 5. your goal as FrontEnd engineer for this challenge is to update /edit/ style etc to get the App as close to the Figma Design
 6. when complete, push your branch to repo
-7.  we can discuss durign next interview!
+7.  we can discuss during next interview!
 
 ### EA's App Structure
 
