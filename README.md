@@ -34,13 +34,14 @@ Figma Design File:
 ## How to complete challenge
 
 1. Clone Repo and make a branch
-2. Using the App Structure guide Diagram, the projects App structure, and the Figma Design digram to build the necessary Modules, Components, Elements, etc...
-3. ChakraUI is installed but if you can solve th problem with `CSS`, `Another UI Lib`, `CSS-In-JS`, or similiar process by all means
-4. Some Modules, and Layouts are already created so you need only edit and style them to match Figma
-5. The assets and data is already in project or accessible via mock data in project folder
-6.  Focus on Layout and Design for both "Desktop & Mobile"
-7. test locally
-8. push your branch before interview and then we can discuss
+2. Before running application execute "yarn install" then to run application execute "yarn dev"
+3. Using the App Structure guide Diagram, the projects App structure, and the Figma Design digram to build the necessary Modules, Components, Elements, etc...
+4. ChakraUI is installed but if you can solve th problem with `CSS`, `Another UI Lib`, `CSS-In-JS`, or similiar process by all means
+5. Some Modules, and Layouts are already created so you need only edit and style them to match Figma
+6. The assets and data is already in project or accessible via mock data in project folder
+7.  Focus on Layout and Design for both "Desktop & Mobile"
+8. test locally
+9. push your branch before interview and then we can discuss
 
 ### Design Images
 
