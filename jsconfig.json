@@ -41,9 +41,6 @@
       "@/lib/*": [
         "lib/*"
       ],
-      "@/marketing": [
-        "marketing"
-      ],
       "@/svgs": [
         "svgs"
       ],
@@ -52,6 +49,9 @@
       ],
       "@/config/*": [
         "config/*"
+      ],
+      "@/public": [
+        "./public/*"
       ]
     }
   }

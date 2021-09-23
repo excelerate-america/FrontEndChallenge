@@ -2,6 +2,8 @@ import react, { useState, useEffect } from 'react'
 import { Link as ChakraLink, Box } from '@chakra-ui/react'
 import { getSiteLayout } from '@/layouts'
 import { SectionHeader } from '@/elements'
+import Image from 'next/image'
+import { ArticleCard } from '@/modules'
 // import { articlesMake, articlesMakeRest } from 'data/mockdata'
 import { getArticles } from '@/lib/fakeApi'
 export default function IndexPage({ page }) {
@@ -13,14 +15,12 @@ export default function IndexPage({ page }) {
 
   return (
     <Box>
-      <SectionHeader>Section Header</SectionHeader>
       {articles && (
         <>
           {articles.map((art, index) => (
-            <Box w="100px" h="100px" color="pink" key={index}>
-              {art.articleTitle}
-            </Box>
+            <ArticleCard key={index} article={art} />
           ))}
+          <SectionHeader>Section Header</SectionHeader>
         </>
       )}
     </Box>

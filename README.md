@@ -1,35 +1,63 @@
-# Example app with [chakra-ui](https://github.com/chakra-ui/chakra-ui)
+# EA Front End Challenge
+Hello  the following is a couple of tasks that will help demonstrate your skillset and introduce you to some of the tools and process we use at EA.
 
-This example features how to use [chakra-ui](https://github.com/chakra-ui/chakra-ui) as the component library within a Next.js app.
+## Challenge Overview
 
-We are connecting the Next.js `_app.js` with `chakra-ui`'s Theme and ColorMode containers so the pages can have app-wide dark/light mode. We are also creating some components which shows the usage of `chakra-ui`'s style props.
+1. Clone & Familiarize yourself with the projects  app structure, folder structure  and technologies
+2. Check out the link to the Figma Design File
+3. Use the Figma File as a guide to building the Page for "Desktop & Mobile"
+4. make the edits to the code and test locally
+5. your goal as FrontEnd engineer for this challenge is to update /edit/ style etc to get the App as close to the Figma Design
+6. when complete, push your branch to repo
+7.  we can discuss durign next interview!
 
-## Preview
+### EA's App Structure
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+![ReactAppStructure](./docs/reactAppStructure.jpg)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-chakra-ui)
 
-## Deploy your own
+## Current Project Build
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+At the core it's HTML/CSS and Javascript.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-chakra-ui&project-name=with-chakra-ui&repository-name=with-chakra-ui)
+We use  the javascript library [ReactJS](https://reactjs.org)
 
-## How to use
+We use the React framework
+[NextJS](https://nextjs.org/learn/basics/create-nextjs-app)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
-```bash
-npx create-next-app --example with-chakra-ui with-chakra-ui-app
-# or
-yarn create next-app --example with-chakra-ui with-chakra-ui-app
-```
+We are currently using Chakra-UI for our UI Library.
+[chakra-ui](https://chakra-ui.com/)
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Figma Design File:
+[FrontEndChallenge](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=0%3A1)
+## How to complete challenge
+
+1. Clone Repo and make a branch
+2. Using the App Structure guide Diagram, the projects App structure, and the Figma Design digram to build the necessary Modules, Components, Elements, etc...
+3. ChakraUI is installed but if you can solve th problem with `CSS`, `Another UI Lib`, `CSS-In-JS`, or similiar process by all means
+4. Some Modules, and Layouts are already created so you need only edit and style them to match Figma
+5. The assets and data is already in project or accessible via mock data in project folder
+6.  Focus on Layout and Design for both "Desktop & Mobile"
+7. test locally
+8. push your branch before interview and then we can discuss
+
+### Design Images
+
+![Figma Desktop View](./docs/frontEndFigma-desktop.png)
+
+![Figma Mobile View](./docs/frontEndFigma-mobile.png)
 
 ## Notes
+- [THINKING IN REACT](https://reactjs.org/docs/thinking-in-react.html)
 
-Chakra has supported Gradients and RTL in `v1.1`. To utilize RTL, [add RTL direction and swap](https://chakra-ui.com/docs/features/rtl-support).
+- [ReactJS](https://reactjs.org)
 
-If you don't have multi-direction app, you should make `<Html lang="ar" dir="rtl">` inside `_document.js`.
+
+- [NextJS](https://nextjs.org/learn/basics/create-nextjs-app)
+
+
+
+- [chakra-ui](https://chakra-ui.com/)
+
+- [Figma Share Link](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=0%3A1)
