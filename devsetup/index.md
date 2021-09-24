@@ -1,10 +1,11 @@
 # Engineering Developer Setup
 
-## If you are user to Windows
+
+### If you are new to Mac
 [New to MAC help](pages/newtomac.md)
 
-## Setup Instructions
+### Setup Instructions
 [M1 Macbook Pro Setup](pages/m1-setup.md)
 
-## EA's Project Folder Structure & Github Process and Notes
+### EA's Project Folder Structure & Github Process and Notes
 [Project Process & Github Flow](pages/projects.md)
