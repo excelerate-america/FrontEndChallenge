@@ -1,6 +1,6 @@
 # Engineering Developer Setup
 
-## If your used to Windows
+## If you are user to Windows
 [New to MAC help](pages/newtomac.md)
 
 ## Setup Instructions
