@@ -38,7 +38,7 @@ We are currently using Chakra-UI for our UI Library.
 [chakra-ui](https://chakra-ui.com/)
 
 Figma Design File:
-[FrontEndChallenge](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=0%3A1)
+[FrontEndChallenge](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=2%3A245)
 
 
 ### EA's App Structure
@@ -60,11 +60,8 @@ Figma Design File:
 
 - [ReactJS](https://reactjs.org)
 
-
 - [NextJS](https://nextjs.org/learn/basics/create-nextjs-app)
-
-
 
 - [chakra-ui](https://chakra-ui.com/)
 
-- [Figma Share Link](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=0%3A1)## Welcome to GitHub Pages
+- [Figma Share Link](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=2%3A245)
