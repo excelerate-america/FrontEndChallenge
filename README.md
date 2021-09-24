@@ -6,10 +6,10 @@ Hello  the following is a couple of tasks that will help demonstrate your skills
 1. Clone & Familiarize yourself with the projects  app structure, folder structure  and technologies
 2. Check out the link to the Figma Design File
 3. Use the Figma File as a guide to building the Page for "Desktop & Mobile"
-4. make the edits to the code and test locally
-5. your goal as FrontEnd engineer for this challenge is to update /edit/ style etc to get the App as close to the Figma Design
-6. when complete, push your branch to repo
-7.  we can discuss during next interview!
+4. Make the edits to the code and test locally
+5. Your goal as FrontEnd engineer for this challenge is to update /edit/ style etc to get the App as close to the Figma Design
+6. When complete, push your branch to repo
+7. We can discuss during next interview!
 
 ### EA's App Structure
 
@@ -30,7 +30,7 @@ We are currently using Chakra-UI for our UI Library.
 [chakra-ui](https://chakra-ui.com/)
 
 Figma Design File:
-[FrontEndChallenge](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=0%3A1)
+[FrontEndChallenge](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=2%3A245)
 ## How to complete challenge
 
 1. Clone Repo and make a branch
@@ -61,4 +61,4 @@ Figma Design File:
 
 - [chakra-ui](https://chakra-ui.com/)
 
-- [Figma Share Link](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=0%3A1)
+- [Figma Share Link](https://www.figma.com/file/dFFaPvdPrl9Ib1MtqXtPS1/FrontEnd-Challenge?node-id=2%3A245)
