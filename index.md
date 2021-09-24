@@ -50,8 +50,10 @@ Figma Design File:
 
 ![Figma Mobile View](./frontEndFigma-mobile.png)
 
+## EA Engineering Links
+[Environment Setup](./devsetup/index.md)
 ## EA's Project Folder Structure & Github Process and Notes
-[Project Process & Github Flow](pages/projects.md)
+[Project Process & Github Flow](./devsetup/pages/projects.md)
 
 ## Notes
 - [THINKING IN REACT](https://reactjs.org/docs/thinking-in-react.html)
