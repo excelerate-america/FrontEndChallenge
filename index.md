@@ -2,7 +2,6 @@
 The following project is structured similar to a current project, including a sampling of our current programming languages, tools and libraries. The goal of this project is two parts. 1) Provide you a glimpse of how we work and the tools we use and 2) Give you an opportunity to showcase your skillsets related to the Frontend role.  This project plus reviews of your personal projects will help our team understand your strengths and areas for growth in development
 
 
-**Please contact me, if you have any questions about the challenge.**
 
 ## Challenge Overview
 As the Front-End engineer your challenge is to create a working version of a single page web app, matching as closely as possible to the included Figma Design document.  The single page web app is meant for use as a dashboard for a content product for small business entrepreneurs.
@@ -17,6 +16,16 @@ Instructions:
 1. Focus on Layout and Design for both “Desktop & Mobile” and try and match Figma doc
 1. Build and test locally then push your branch before the interview
 1. We will discuss your project during the interview to understand how you tackled problems and your process for creating the page
+
+**Please contact me, if you have any questions about the challenge or need any clarifications.**
+Please contact me!
+The best method is via Discord:
+If you are new to Discord
+- 
+
+ 1) follow this link to set up your discord account,
+ 2) [Sign up to Discord](https://discord.com/register)2) once your account is setup navigate to the friends section and type in my username
+ @drew_beaman
 
 
 **🚨 if your portfolio contains a project that is similar please contact me! 🚨**
