@@ -26,8 +26,9 @@ If you are new to Discord:
  1 Follow this link: [Sign up to Discord](https://discord.com/register) to set up your discord account
  2 Once your account is setup, navigate to the friends section and type in my username  `drew_beaman#1798`
 
+[Adding Me in Discord](https://www.loom.com/share/8c22f119135e4501b71857a9a9f2958b)
+<a href="{https://www.loom.com/share/8c22f119135e4501b71857a9a9f2958b}" title="Link Title"><img src="./discordView.png}" alt="Discord " /></a>
 **🚨 if your portfolio contains a project that is similar please contact me! 🚨**
-
 
 
 ## Current Project Build
