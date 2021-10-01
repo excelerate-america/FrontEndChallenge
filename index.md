@@ -20,16 +20,13 @@ Instructions:
 **Please contact me, if you have any questions about the challenge or need any clarifications.**
 Please contact me!
 The best method is via Discord:
-If you are new to Discord
-- 
+- My username:  `drew_beaman#1798`
 
- 1) follow this link to set up your discord account,
- 2) [Sign up to Discord](https://discord.com/register)2) once your account is setup navigate to the friends section and type in my username
- @drew_beaman
-
+If you are new to Discord:
+ 1 Follow this link: [Sign up to Discord](https://discord.com/register) to set up your discord account
+ 2 Once your account is setup, navigate to the friends section and type in my username  `drew_beaman#1798`
 
 **🚨 if your portfolio contains a project that is similar please contact me! 🚨**
-
 
 
 
